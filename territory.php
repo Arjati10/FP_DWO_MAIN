@@ -237,7 +237,7 @@ Highcharts.chart('chart1', {
         type: 'pie'
     },
     title: {
-        text: 'Persentase Produk Terjual Berdasarkan Kategori'
+        text: 'Persentase Produk Terjual Berdasarkan Negara'
     },
     subtitle: {
         text: 'Klik di potongan kue untuk melihat detil nilai penjualan kategori berdasarkan kategori'
